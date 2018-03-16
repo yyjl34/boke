@@ -1,0 +1,167 @@
+@import "base.css";
+
+@font-face {
+    font-family: 'iconfont';  /* project id 590577 */
+    src: url('http://at.alicdn.com/t/font_590577_y4xvgolclqouhaor.eot');
+    src: url('http://at.alicdn.com/t/font_590577_y4xvgolclqouhaor.eot?#iefix') format('embedded-opentype'),
+    url('http://at.alicdn.com/t/font_590577_y4xvgolclqouhaor.woff') format('woff'),
+    url('http://at.alicdn.com/t/font_590577_y4xvgolclqouhaor.ttf') format('truetype'),
+    url('http://at.alicdn.com/t/font_590577_y4xvgolclqouhaor.svg#iconfont') format('svg');
+}
+
+.iconfont{
+    font-family: 'iconfont';
+}
+i{
+    font-style: normal;
+
+}
+body{
+    background: #f7f7f7;
+}
+.header{
+    width: 100%;
+    height: 1.46rem;
+    box-shadow: 0rem 0.05rem 0rem #dcdbdb;
+    display: flex;
+    background: #fff;
+    margin-bottom: 0.1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.bozhu{
+    width: 1.95rem;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.4rem;
+}
+.bozhu p{
+    font-size: 0.46rem;
+    color: #333333;
+
+}
+.gz{
+    display: block;
+    width: 0.64rem;
+    height: 0.64rem;
+    margin:0.4rem 0.5rem 0 0.5rem ;
+}
+.icon2{
+    font-size: 0.64rem;
+    color:#474747 ;
+}
+.sousuo{
+    display: block;
+    width: 0.64rem;
+    height: 0.64rem;
+    float: right;
+    margin: 0.4rem 0.5rem 0 0;
+}
+.icon1{
+    font-size: 0.64rem;
+    color:#ff6a53 ;
+}
+.rmbo{
+    width: 100%;
+    height: 3.64rem;
+    background: #fff;
+    margin-bottom: 0.24rem;
+    margin-top: 1.5rem;
+
+}
+.rmnk{
+    width: 9.87rem;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+.imgbox{
+    width: 4.72rem;
+    height: 2.58rem;
+    margin-top: 0.5rem;
+
+}
+.imgbox img{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+.tjzt{
+    width: 100%;
+    height: auto;
+    background: #fff;
+
+}
+.tjztList{
+    width: 100%;
+    height: 4.42rem;
+    border-bottom: 0.02rem solid #eee;
+}
+.tjNk{
+    width: 9.86rem;
+    height: 100%;
+    margin: 0 auto;
+}
+.tjtop{
+    width: 2rem;
+    height: 1rem;
+    background: #9e7d64;
+    font-size: 0.3rem;
+    color: #fff;
+    text-align: center;
+    line-height: 1rem;
+    margin-bottom: 0.5rem;
+}
+.rw{
+    width: 100%;
+    height: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rw img{
+    display: block;
+    width: 1.17rem;
+    height: 1.2rem;
+}
+.wypl{
+    height: 100%;
+
+}
+.wypl span{
+    font-size: 0.42rem;
+    color: #333;
+}
+.wypl p{
+    font-size: 0.3rem;
+    color: #999;
+}
+.guanzhu{
+    border: 0.02rem solid #ff7244;
+    width: 1.75rem;
+    height: 0.77rem;
+    text-align: center;
+    line-height: 0.77rem;
+    border-radius: 5px;
+    color: #ff7244;
+    font-size: 0.41rem;
+
+}
+.tjbottom{
+    width: 8.15rem;
+    height: 1.23rem;
+    margin-top: 0.28rem;
+    margin-left: 1.5rem;
+}
+.tjbottom p{
+    font-size: 0.35rem;
+    color: #666666;
+}
+.bz{
+    background: #ff7043;
+}
